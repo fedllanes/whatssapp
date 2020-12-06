@@ -21,3 +21,4 @@ While in the next following graphs you can see more relevant information, such a
 
 ![title](grafico2.png)
 
+In the first graphic it's an histogram of how many messages were sent in each one hour time block. The second graphic is the same for the day of the week, followed by the month and year.
