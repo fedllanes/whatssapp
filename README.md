@@ -13,12 +13,11 @@ The scripts returns a series of graphics with the relevant data.
 
 ![title](grafico1.png)
 
-In the six graphs below, you can see who of the two sent the most images, audios, videos, messages, etc.
+In the six graphs above, you can see who of the two sent the most images, audios, videos, messages, etc.
 
 
 
 While in the next following graphs you can see more relevant information, such as time information. What time was the busiest, what month, what day, etc.
 
-IMAGE 2
-
+![title](grafico2.png)
 
