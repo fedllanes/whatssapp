@@ -11,7 +11,7 @@ In whatsapp, go to the chat you care about, click on the top menu and scroll dow
 
 The scripts returns a series of graphics with the relevant data.
 
-IMAGE 1
+![title](Images/grafico1.png)
 
 In the six graphs below, you can see who of the two sent the most images, audios, videos, messages, etc.
 
